@@ -1,1 +1,1 @@
-📚 Software engineering student at kood/Jõhvi
+📚 Full-stack software engineering student at [kood/Jõhvi](https://kood.tech), an innovative school that operates without traditional teachers and focuses on self-learning and collective intelligence methodologies.
